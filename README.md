@@ -31,7 +31,7 @@ This project is a **2D endless runner game** developed in Java, demonstrating ob
    ```
 2. Navigate to the project directory:
    ```bash
-   cd JavaGame
+   cd 2D-Java-Game
    ```
 3. Compile the game files:
    ```bash
